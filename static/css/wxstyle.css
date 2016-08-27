@@ -1,0 +1,19 @@
+.wxicon{
+    /*margin:0 0 0 2em;*/
+    float: left;
+    !important;
+}
+/*.wxdata{*/
+    /*margin: 0% 0% 0% 5%;*/
+    /*float: left;*/
+    /*color: #FFFFFF;*/
+/*}*/
+.wxcontent{
+    color: #FFFFFF;
+    text-align: center;
+    margin: 5px 0 0 0;
+    !important;
+}
+.wxcontentfont{
+    font-weight: bold;
+}
