@@ -4,7 +4,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="oracle" name="Oracle" dialect="Oracle">
-      <option name="auto-sync" value="true" />
+      <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
     </driver>
     <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
