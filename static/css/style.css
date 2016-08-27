@@ -217,7 +217,7 @@ body a{
   font-family: 'Roboto', sans-serif;
 }
 nav.top1.navbar.navbar-default.navbar-static-top {
-  background-color:rgb(6, 217, 149);
+  background-color:#1b93e1;
   font-family: 'Roboto', sans-serif;
 }
 .navbar-default .navbar-brand {
@@ -233,11 +233,11 @@ nav.top1.navbar.navbar-default.navbar-static-top {
 }
 i.nav_icon {
   color: #fff;
-  margin-right:6px;
+  margin-right:1.5em;
 }
 .sidebar ul li a{
-  color: #999;
-  font-size:14px;
+  color: #ffffff;
+  font-size: 1.1em;
 }
 .form-control {
   background: none !important;
@@ -850,7 +850,7 @@ i.dollar1{
 }
 /*-- graphs --*/
 .graphs{
-  padding: 2em 1em;
+  padding: 0.5em 1em;
   background: #f2f4f8;
   font-family: 'Roboto', sans-serif;
 }
@@ -2694,4 +2694,57 @@ span.btn_6{
 span.btn_7{
   font-size: 64%;
 }
+}
+
+.list_of_members{
+  margin:1em 0;
+}
+.visitors {
+    width: 31.333%;
+    margin-right: 3%;
+    background: #7f8c8d;
+    padding: 2em 2em;
+    float: left;
+}
+.visitors h4, .sales h4, .users h4 {
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 1.8em;
+    font-weight: 300;
+}
+.visitors h3, .sales h3, .users h3 {
+    color: #fff;
+    text-align: center;
+    margin: 0.5em 0;
+    font-size: 3.5em;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+.visitors p, .sales p, .users p {
+    float: left;
+    color: #fff;
+    font-size: 1.3em;
+    font-weight: 300;
+}
+.visitors a, .sales a, .users a {
+    float: right;
+}
+i.go {
+    width: 25px;
+    height: 25px;
+    background: url('../images/img-sprite.png') no-repeat -455px 0px;
+    display: inline-block;
+}
+.sales {
+    width: 31.333%;
+    margin-right: 3%;
+    background: #1b93e1;
+    padding: 2em 2em;
+    float: left;
+}
+.users {
+    width: 31.333%;
+    background: #7f8c8d;
+    padding: 2em 2em;
+    float: left;
 }

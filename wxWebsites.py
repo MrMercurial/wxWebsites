@@ -1,12 +1,17 @@
-from flask import Flask,render_template,request
+import sqlite3
+from flask import Flask,render_template,request,session,g,redirect,url_for,\
+    abort,flash
 from wxTools import wxTools
 
-app = Flask(__name__)
 
+app = Flask(__name__)
+app.secret_key='test'
 
 @app.route('/')
 def hello_world():
-    return render_template('index.html',messagenum=100,newusers=135,totalusers=10003)
+    totalvistor=1234
+    todayvistor=23
+    return render_template('index.html',totalvistor=totalvistor,todayvistor=todayvistor)
 
 @app.route('/test')
 def test():
