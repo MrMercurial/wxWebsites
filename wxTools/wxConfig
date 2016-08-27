@@ -1,0 +1,5 @@
+[config]
+host=localhost
+user=root
+pwd=taoanqi!@#$1234
+db=wxDB
