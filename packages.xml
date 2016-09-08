@@ -2380,7 +2380,7 @@
         <entry key="Flappy" value="" />
         <entry key="FlashCardQuiz" value="" />
         <entry key="FlashMessage" value="" />
-        <entry key="Flask" value="" />
+        <entry key="Flask" value="0.11.1" />
         <entry key="Flask-ACL" value="" />
         <entry key="Flask-API" value="" />
         <entry key="Flask-API-Utils" value="" />
@@ -4009,7 +4009,7 @@
         <entry key="Jianfan" value="" />
         <entry key="Jim" value="" />
         <entry key="Jinja" value="" />
-        <entry key="Jinja2" value="" />
+        <entry key="Jinja2" value="2.8" />
         <entry key="Jinja2Pipe" value="" />
         <entry key="Jinjer2" value="" />
         <entry key="Jiqin_nester" value="" />
@@ -4600,7 +4600,7 @@
         <entry key="MarkovNetwork" value="" />
         <entry key="MarkovPy" value="" />
         <entry key="MarkovText" value="" />
-        <entry key="MarkupSafe" value="" />
+        <entry key="MarkupSafe" value="0.23" />
         <entry key="Markups" value="" />
         <entry key="Marmir" value="" />
         <entry key="Marnadi" value="" />
@@ -4981,7 +4981,7 @@
         <entry key="MyProxyWebService" value="" />
         <entry key="MyPyML" value="" />
         <entry key="MyPyPiTut" value="" />
-        <entry key="MySQL-python" value="" />
+        <entry key="MySQL-python" value="1.2.3" />
         <entry key="MySQL-python-embedded" value="" />
         <entry key="MySQL-python-glb" value="" />
         <entry key="MySQLdb" value="" />
@@ -9768,7 +9768,7 @@
         <entry key="WellBehavedPython" value="" />
         <entry key="WemooAgent" value="" />
         <entry key="WeoGeoAPI" value="" />
-        <entry key="Werkzeug" value="" />
+        <entry key="Werkzeug" value="0.11.11" />
         <entry key="Werkzeug-ASGI" value="" />
         <entry key="Werkzeug-Raw" value="" />
         <entry key="WesleyChang_nester" value="" />
@@ -17068,7 +17068,7 @@
         <entry key="cfdilib" value="" />
         <entry key="cfenv" value="" />
         <entry key="cff_utily" value="" />
-        <entry key="cffi" value="" />
+        <entry key="cffi" value="2" />
         <entry key="cffi_glpk" value="" />
         <entry key="cffi_magic" value="" />
         <entry key="cffi_re2" value="" />
@@ -17995,7 +17995,7 @@
         <entry key="clicast" value="" />
         <entry key="cliche" value="" />
         <entry key="clicheck" value="" />
-        <entry key="click" value="" />
+        <entry key="click" value="6.6" />
         <entry key="click-config" value="" />
         <entry key="click-datetime" value="" />
         <entry key="click-default-group" value="" />
@@ -21278,7 +21278,7 @@
         <entry key="cryptodrive" value="" />
         <entry key="cryptoexchange" value="" />
         <entry key="cryptogaphy" value="" />
-        <entry key="cryptography" value="" />
+        <entry key="cryptography" value="1.5" />
         <entry key="cryptography-vectors" value="" />
         <entry key="cryptopie" value="" />
         <entry key="cryptopy" value="" />
@@ -21471,7 +21471,7 @@
         <entry key="cssprefixer2" value="" />
         <entry key="cssq" value="" />
         <entry key="cssrtl" value="" />
-        <entry key="cssselect" value="" />
+        <entry key="cssselect" value="0.9.2" />
         <entry key="cssselect2" value="" />
         <entry key="csssprite" value="" />
         <entry key="cssutils" value="" />
@@ -33820,7 +33820,7 @@
         <entry key="enum" value="" />
         <entry key="enum-compat" value="" />
         <entry key="enum21" value="" />
-        <entry key="enum34" value="" />
+        <entry key="enum34" value="1.1.6" />
         <entry key="enum34-custom" value="" />
         <entry key="enum3field" value="" />
         <entry key="enum_meta" value="" />
@@ -42020,7 +42020,7 @@
         <entry key="idlk" value="" />
         <entry key="idm" value="" />
         <entry key="idmbd" value="" />
-        <entry key="idna" value="" />
+        <entry key="idna" value="2.1" />
         <entry key="idncheck" value="" />
         <entry key="idncheck-old" value="" />
         <entry key="ido" value="" />
@@ -43054,7 +43054,7 @@
         <entry key="ip_info" value="" />
         <entry key="ipa-zounds" value="" />
         <entry key="ipaddr" value="" />
-        <entry key="ipaddress" value="" />
+        <entry key="ipaddress" value="1.0.16" />
         <entry key="ipaddresses" value="" />
         <entry key="ipamcli" value="" />
         <entry key="ipapy" value="" />
@@ -43508,7 +43508,7 @@
         <entry key="itools" value="" />
         <entry key="itopy" value="" />
         <entry key="itsbroken" value="" />
-        <entry key="itsdangerous" value="" />
+        <entry key="itsdangerous" value="0.24" />
         <entry key="itssafe" value="" />
         <entry key="itstool" value="" />
         <entry key="itsy" value="" />
@@ -56975,7 +56975,7 @@
         <entry key="parsegen" value="" />
         <entry key="parseidf" value="" />
         <entry key="parsekit" value="" />
-        <entry key="parsel" value="" />
+        <entry key="parsel" value="1.0.3" />
         <entry key="parsel-cli" value="" />
         <entry key="parseli" value="" />
         <entry key="parselmouth" value="" />
@@ -58373,7 +58373,7 @@
         <entry key="pion" value="" />
         <entry key="pioneeravclient" value="" />
         <entry key="pior" value="" />
-        <entry key="pip" value="" />
+        <entry key="pip" value="8.1.2" />
         <entry key="pip-Win" value="" />
         <entry key="pip-accel" value="" />
         <entry key="pip-autoremove" value="" />
@@ -60923,7 +60923,7 @@
         <entry key="pxp" value="" />
         <entry key="pxprocess" value="" />
         <entry key="pxul" value="" />
-        <entry key="py" value="" />
+        <entry key="py" value="1.4.31" />
         <entry key="py-4chan" value="" />
         <entry key="py-ApeTag" value="" />
         <entry key="py-Asterisk" value="" />
@@ -61851,7 +61851,7 @@
         <entry key="pyasm" value="" />
         <entry key="pyasmjit" value="" />
         <entry key="pyasn" value="" />
-        <entry key="pyasn1" value="" />
+        <entry key="pyasn1" value="0.1.9" />
         <entry key="pyasn1-modules" value="" />
         <entry key="pyasp" value="" />
         <entry key="pyaspects" value="" />
@@ -62410,7 +62410,7 @@
         <entry key="pycox" value="" />
         <entry key="pycp" value="" />
         <entry key="pycpanel" value="" />
-        <entry key="pycparser" value="" />
+        <entry key="pycparser" value="2.14" />
         <entry key="pycparser-plz-ignore" value="" />
         <entry key="pycparserext" value="" />
         <entry key="pycpf" value="" />
@@ -62479,8 +62479,8 @@
         <entry key="pyculqi" value="" />
         <entry key="pycups" value="" />
         <entry key="pycure" value="" />
-        <entry key="pycurl" value="" />
-        <entry key="pycurl2" value="" />
+        <entry key="pycurl" value="7.43.0" />
+        <entry key="pycurl2" value="7.20.0" />
         <entry key="pycurlbrowser" value="" />
         <entry key="pycurrency" value="" />
         <entry key="pycurry" value="" />
@@ -68801,7 +68801,7 @@
         <entry key="queued_search" value="" />
         <entry key="queueing-tool" value="" />
         <entry key="queueing_network_system_simpy" value="" />
-        <entry key="queuelib" value="" />
+        <entry key="queuelib" value="1.4.2" />
         <entry key="queues" value="" />
         <entry key="queuetools" value="" />
         <entry key="queuey" value="" />
@@ -73621,7 +73621,7 @@
         <entry key="setupreader" value="" />
         <entry key="setuptize_me" value="" />
         <entry key="setuptool" value="" />
-        <entry key="setuptools" value="" />
+        <entry key="setuptools" value="26.1.1" />
         <entry key="setuptools-bower" value="" />
         <entry key="setuptools-ci" value="" />
         <entry key="setuptools-clonedigger" value="" />
@@ -74716,7 +74716,7 @@
         <entry key="siva" value="" />
         <entry key="sivart" value="" />
         <entry key="sivel-test" value="" />
-        <entry key="six" value="" />
+        <entry key="six" value="1.10.0" />
         <entry key="sixelplot" value="" />
         <entry key="sixelterm" value="" />
         <entry key="sixer" value="" />
@@ -82180,7 +82180,7 @@
         <entry key="twspy" value="" />
         <entry key="twss" value="" />
         <entry key="twswebrpc" value="" />
-        <entry key="twtPyCurl" value="" />
+        <entry key="twtPyCurl" value="1.1.1" />
         <entry key="twtxt" value="" />
         <entry key="twuewand" value="" />
         <entry key="twunnel" value="" />
@@ -83887,7 +83887,7 @@
         <entry key="virtualchain" value="" />
         <entry key="virtualdc" value="" />
         <entry key="virtualecologist" value="" />
-        <entry key="virtualenv" value="" />
+        <entry key="virtualenv" value="15.0.3" />
         <entry key="virtualenv-activator" value="" />
         <entry key="virtualenv-api" value="" />
         <entry key="virtualenv-bin" value="" />
@@ -84324,7 +84324,7 @@
         <entry key="w3c-validator" value="" />
         <entry key="w3c-validator-cli" value="" />
         <entry key="w3g" value="" />
-        <entry key="w3lib" value="" />
+        <entry key="w3lib" value="1.15.0" />
         <entry key="wa" value="" />
         <entry key="wa-kat" value="" />
         <entry key="waapuro" value="" />
@@ -87922,7 +87922,7 @@
         <entry key="zope.i18n" value="" />
         <entry key="zope.i18nmessageid" value="" />
         <entry key="zope.index" value="" />
-        <entry key="zope.interface" value="" />
+        <entry key="zope.interface" value="4.3.2" />
         <entry key="zope.intid" value="" />
         <entry key="zope.introspector" value="" />
         <entry key="zope.introspectorui" value="" />
