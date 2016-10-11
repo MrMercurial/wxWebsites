@@ -2483,7 +2483,7 @@
         <entry key="Flask-Bleach" value="" />
         <entry key="Flask-Blogging" value="" />
         <entry key="Flask-Boost" value="" />
-        <entry key="Flask-Bootstrap" value="" />
+        <entry key="Flask-Bootstrap" value="3.3.7.0" />
         <entry key="Flask-Bootstrap3" value="" />
         <entry key="Flask-Boto3" value="" />
         <entry key="Flask-BotoSQS" value="" />
@@ -32839,7 +32839,7 @@
         <entry key="domcontrol-master" value="" />
         <entry key="domestic-reader" value="" />
         <entry key="domestos" value="" />
-        <entry key="dominate" value="" />
+        <entry key="dominate" value="2.1.17" />
         <entry key="dominator" value="" />
         <entry key="domingo" value="" />
         <entry key="dominic" value="" />
@@ -86160,7 +86160,7 @@
         <entry key="visionegg" value="" />
         <entry key="visit" value="" />
         <entry key="visitdir" value="" />
-        <entry key="visitor" value="" />
+        <entry key="visitor" value="0.1.3" />
         <entry key="visitor_mark_down" value="" />
         <entry key="visitors" value="" />
         <entry key="vispa" value="" />
