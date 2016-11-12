@@ -1,6 +1,11 @@
 <application>
   <component name="PyPackageService">
+    <option name="additionalRepositories">
+      <list>
+        <option value="http://pypi.douban.com/simple/" />
+      </list>
+    </option>
     <option name="virtualEnvBasePath" value="E:/MyTools/Programs/Python/Virtualenv" />
-    <option name="LAST_TIME_CHECKED" value="1478312823659" />
+    <option name="LAST_TIME_CHECKED" value="1478921577504" />
   </component>
 </application>
